@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <Navbar />
       <Home />
-      <img src='/profilePic.png' alt=''></img>
+      <img src='./profilePic.png' alt=''></img>
     </div>
   );
 }

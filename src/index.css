@@ -11,6 +11,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  border-left: 6px solid #777;
+  border-right: 6px solid #777;
 }
 
 code {
@@ -126,6 +128,10 @@ code {
   text-align: center;
 }
 
+.contact-me-header h2 {
+  color: #FFC72C;
+}
+
 #contact-me-section ul {
   padding: 30px;
   list-style: none;
@@ -187,3 +193,55 @@ a:hover {
   justify-content: space-evenly;
   padding: 3rem 0;
 }
+
+@media screen and (min-width: 1024px) {
+  .about-me-section{
+      flex-direction: row;
+     
+ }
+}
+
+@media screen and (min-width: 1024px) {
+ .projects{
+     /* display: inline-block; */
+     width: 49.7%;
+}
+} 
+
+@media screen and (max-width: 1024px) {
+ .sub-header{
+     flex-direction: column;
+}
+} 
+
+@media screen and (min-width: 900px) {
+ .my-work-container{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+
+}
+ .project-1{
+     width: 80vw;
+     height: 60vh;
+     display: block;
+     /* align-self: center; */
+     /* margin-bottom: 2rem; */
+ }
+
+ .project-2 {
+     /* width: 50%; */
+     display: block;
+     margin-right: 1.5rem;
+     width: 42vw;
+     height: 35vh;
+ }
+
+ .project-3 {
+     /* width: 50%; */
+     display: block;
+     /* margin-left: 1.5rem; */
+     width: 42vw;
+     height: 35vh;
+ }
+} 
