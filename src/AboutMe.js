@@ -9,7 +9,7 @@ const AboutMe = () => {
                 
             <div className="about-me-text">
                 <h2 className="about-me-title">About me</h2>
-                <p className="about-me-paragraph"> I am a graduate from the University of Washington class of 2018 with a degree in Business administration. Since then I have explored managerial and entreprenurial opportunities. I am currently a student learning software development that includes HTML, CSS, JavaScript, Node.js, MongoDB, MySQL, and React</p>
+                <p className="about-me-paragraph"> I am a graduate from the University of Washington class of 2018 with a degree in Business administration. Since then I have explored managerial and entreprenurial opportunities. I am currently a student learning software development that includes HTML, CSS, Bootstrap, JavaScript, Node.js, MongoDB, MySQL, and React</p>
             </div>
         </section>
      );

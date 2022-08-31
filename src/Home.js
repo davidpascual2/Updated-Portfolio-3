@@ -5,6 +5,7 @@ import MyWork from "./MyWork";
 const Home = () => {
     return ( 
         <div className="home">
+            
             <AboutMe />
             <MyWork />
             <Contact />
