@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.47a6a2e4.css",
-    "main.js": "/static/js/main.d075f1e0.js",
-    "static/media/profilePic.png": "/static/media/profilePic.ac3792a133dbcbeb37ca.png",
-    "static/media/movie-selector-SS.png": "/static/media/movie-selector-SS.e6f30664d9f1abf49bb7.png",
-    "static/media/weather-dashboard-SS.png": "/static/media/weather-dashboard-SS.a78749cbfa2244d09fa3.png",
-    "static/media/code-quiz-SS.png": "/static/media/code-quiz-SS.f4692eb776bbeaee448c.png",
-    "index.html": "/index.html",
-    "main.47a6a2e4.css.map": "/static/css/main.47a6a2e4.css.map",
-    "main.d075f1e0.js.map": "/static/js/main.d075f1e0.js.map"
+    "main.css": "/Updated-Portfolio-3/static/css/main.47a6a2e4.css",
+    "main.js": "/Updated-Portfolio-3/static/js/main.758da11a.js",
+    "static/media/profilePic.png": "/Updated-Portfolio-3/static/media/profilePic.ac3792a133dbcbeb37ca.png",
+    "static/media/movie-selector-SS.png": "/Updated-Portfolio-3/static/media/movie-selector-SS.e6f30664d9f1abf49bb7.png",
+    "static/media/weather-dashboard-SS.png": "/Updated-Portfolio-3/static/media/weather-dashboard-SS.a78749cbfa2244d09fa3.png",
+    "static/media/code-quiz-SS.png": "/Updated-Portfolio-3/static/media/code-quiz-SS.f4692eb776bbeaee448c.png",
+    "index.html": "/Updated-Portfolio-3/index.html",
+    "main.47a6a2e4.css.map": "/Updated-Portfolio-3/static/css/main.47a6a2e4.css.map",
+    "main.758da11a.js.map": "/Updated-Portfolio-3/static/js/main.758da11a.js.map"
   },
   "entrypoints": [
     "static/css/main.47a6a2e4.css",
-    "static/js/main.d075f1e0.js"
+    "static/js/main.758da11a.js"
   ]
 }
