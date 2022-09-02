@@ -2,7 +2,7 @@
 
 const MyWork = () => {
     return ( 
-        <section className="my-work">
+        <section className="my-work" id="my-work">
             <header className="my-work-header">
                 <h2>My Work</h2>
             </header>

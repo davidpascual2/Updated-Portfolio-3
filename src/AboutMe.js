@@ -2,7 +2,7 @@ import img from './profilePic.png'
 
 const AboutMe = () => {
     return ( 
-        <section className="about-me-section">
+        <section className="about-me-section" id="about-me-section">
             <div className="about-me-img">
                 <img className="img-me" src={require('./profilePic.png')} alt="profile picture"/>
             </div>

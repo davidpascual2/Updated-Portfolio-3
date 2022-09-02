@@ -1,17 +1,17 @@
-import AboutMe from "./AboutMe";
-import Contact from "./Contact";
-import MyWork from "./MyWork";
+// import AboutMe from "./AboutMe";
+// import Contact from "./Contact";
+// import MyWork from "./MyWork";
 
-const Home = () => {
-    return ( 
-        <div className="home">
+// const Home = () => {
+//     return ( 
+//         <div className="home">
             
-            <AboutMe />
-            <MyWork />
-            <Contact />
+//             <AboutMe />
+//             <MyWork />
+//             <Contact />
         
-        </div>
-     );
-}
+//         </div>
+//      );
+// }
  
-export default Home;
+// export default Home;
