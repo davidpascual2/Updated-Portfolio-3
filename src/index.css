@@ -13,6 +13,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   border-left: 6px solid #777;
   border-right: 6px solid #777;
+  /* background-image: url("../src/snowybackground.jpeg") ;
+  background-size: cover ; */
 }
 
 code {
@@ -59,6 +61,12 @@ code {
   justify-content: center;
 }
 
+.about-me-paragraph {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bold;
+  line-height: 25px;
+}
+
 /* ____________________MY WORK_______________________ */
 
 .my-work-header {
@@ -75,6 +83,31 @@ code {
 .my-work-container {
   padding: 2rem 0;
 }
+/*=====================PROJECTS======================*/
+
+.project-0 {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  border: solid black 1px;
+  color: black;
+  background-color: white;
+  height: 40vh;
+  width: 100%;
+  background-size: 300px 300px;
+}
+
+/* .project-1 {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  border: solid black 1px;
+  color: black;
+  background-color: white;
+  height: 40vh;
+  width: 100%;
+  background-size: 300px 300px;
+} */
 
 .project-1 {
   display: inline-block;
@@ -83,11 +116,11 @@ code {
   border: solid black 1px;
   color: black;
   background-color: white;
-  height: 30vh;
+  height: 40vh;
   width: 100%;
   background-size: 300px 300px;
-  /* max-width: 50vw; */
 }
+
 .project-2 {
   display: inline-block;
   position: relative;
@@ -95,7 +128,7 @@ code {
   border: solid black 1px;
   color: black;
   background-color: white;
-  height: 30vh;
+  height: 40vh;
   width: 100%;
   background-size: 300px 300px;
   /* max-width: 50vw; */
@@ -109,12 +142,13 @@ code {
   border: solid black 1px;
   color: black;
   background-color: white;
-  height: 30vh;
+  height: 40vh;
   width: 100%;
   background-size: 300px 300px;
 }
 
-/* __________________CONTACT ME____________________ */
+/*=====================CONTACT ME======================*/
+
 
 .contact-me-section {
   /* text-align: center; */
@@ -221,13 +255,28 @@ a:hover {
      justify-content: center;
 
 }
- .project-1{
+
+ /* .project-1{
      width: 80vw;
      height: 60vh;
      display: block;
-     /* align-self: center; */
-     /* margin-bottom: 2rem; */
- }
+ } */
+
+ .project-0 {
+  /* width: 50%; */
+  display: block;
+  margin-right: 1.5rem;
+  width: 42vw;
+  height: 35vh;
+}
+
+.project-1 {
+  /* width: 50%; */
+  display: block;
+  /* margin-right: 1.5rem; */
+  width: 42vw;
+  height: 35vh;
+}
 
  .project-2 {
      /* width: 50%; */

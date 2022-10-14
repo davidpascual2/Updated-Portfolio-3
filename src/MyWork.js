@@ -8,6 +8,15 @@ const MyWork = () => {
             </header>
 
             <div className="my-work-container">
+                <div className="thing-0">
+                    <h3>Home Finder</h3>
+                    <a className="link" href="https://home-guru.herokuapp.com/" target="_blank" rel="noreferrer">
+                        <img src={require("./proj3SS1.png")} alt="home guru screenshot" className="project-0" /></a>
+                        <figcaption className="repo"><a href="https://github.com/reversedentistry/Random-Movie-Selector" target="_blank" rel="noreferrer">
+                            <i className="fa-brands fa-github-square"></i>Repository</a>
+                        </figcaption>
+                </div>
+
                 <div className="thing-1">
                     <h3>Random Movie Selector</h3>
                     <a className="link" href="https://reversedentistry.github.io/Random-Movie-Selector/" target="_blank" rel="noreferrer">
@@ -27,10 +36,10 @@ const MyWork = () => {
                 </div>
                     
                 <div className="thing-3">
-                    <h3>Code Quiz</h3>
-                    <a className="link" href="https://davidpascual2.github.io/Code-Quiz/" target="_blank" rel="noreferrer">
-                        <img src={require("./code-quiz-SS.png")} alt="code quiz screenshot" className="project-3" /></a>
-                        <figcaption className="repo"><a href="https://github.com/davidpascual2/Code-Quiz-HW4" target="_blank" rel="noreferrer">
+                    <h3>Doggie Date Social Media</h3>
+                    <a className="link" href="https://ancient-scrubland-48723.herokuapp.com/" target="_blank" rel="noreferrer">
+                        <img src={require("./DoggieDateSS.png")} alt="Doggie Date screenshot" className="project-3" /></a>
+                        <figcaption className="repo"><a href="https://github.com/davidpascual2/Project-2" target="_blank" rel="noreferrer">
                             <i className="fa-brands fa-github-square"></i>Repository</a>
                         </figcaption>
                 </div>
